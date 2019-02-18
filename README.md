@@ -2,8 +2,14 @@
   
 **Фронт-энд разработчик (с англ. «front-end developer»)** — это [программист][1], занимающийся разработкой пользовательского интерфейса, то есть внешней публичной части сайта в браузере. Главная задача фронт-энд разработчика — сделать  
     максимально удобным взаимодействие пользователей с [сайтом][2] или [веб-приложением][3].
+## Обозначения
 
-##  **Коротко**  
+:ru: - русский язык  
+:us: - английский язык
+
+---
+
+## Коротко
 - **[Английский язык](#eng)**
 - **[Общие навыки разработчика](#general-skills)**
 - **[HTML](#html)**
@@ -24,8 +30,28 @@
 - **[Методологии разработки](#development-methodologies)**
 - **[Полезные ссылки](#useful-links)**
 
+## Подробно
 
-
+### <a name="eng"></a>Английский язык
+- [Полиглот 16 с Петровым](https://www.youtube.com/channel/UCik7MxUtSXXfT-f_78cQRfQ/playlists) :ru:
+- [Duolingo](https://www.duolingo.com/) :ru:
+- [Lingualeo](https://lingualeo.com/ru/) :ru:
+- [Puzzle English](https://puzzle-english.com/) :ru:
+- [Memrise](https://www.memrise.com/) :ru:
+- [Busuu](https://www.busuu.com/ru) :ru:
+- [Lang-8](http://lang-8.com/) :ru:
+- [w2mem](https://w2mem.com/) :ru:
+- [Skyeng](https://skyeng.ru/) :ru:  
+- [EnglishDom](https://www.englishdom.com/) :ru:
+- [HelloTalk](https://www.hellotalk.com/) :ru: 
+- [EnglishSpeak](http://www.englishspeak.com/) :ru: 
+- [Ororo TV](https://ororo.tv/ru) :ru:
+- [Anki](https://apps.ankiweb.net/) :us:
+- [BBC – Learning English](http://www.bbc.co.uk/learningenglish/english/) :us:
+- [Grammarly](https://www.grammarly.com/) :us:  
+- [Rosetta Stone](https://www.rosettastone.com/) :us:  
+- [engVid](https://www.engvid.com/) :us:
+---
 
 
     
