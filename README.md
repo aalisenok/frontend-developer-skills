@@ -31,7 +31,7 @@
 
 ## Подробно
 
-### <a name="eng"></a> Английский язык
+## <a name="eng"></a> Английский язык
 - [Полиглот 16 с Петровым](https://www.youtube.com/channel/UCik7MxUtSXXfT-f_78cQRfQ/playlists) :ru:
 - [Duolingo](https://www.duolingo.com/) :ru:
 - [Lingualeo](https://lingualeo.com/ru/) :ru:
@@ -51,8 +51,7 @@
 - [Rosetta Stone](https://www.rosettastone.com/) :us:  
 - [engVid](https://www.engvid.com/) :us:
 
-### <a name="general-skills"></a> Общие навыки разработчика
-
+## <a name="general-skills"></a> Общие навыки разработчика
 - **Браузеры** 
     - На движке Blink  
         - [Google Chrome](https://www.google.com/intl/ru_ALL/chrome/)
@@ -147,7 +146,7 @@
     - [Паттерны ООП в метафорах](https://habr.com/ru/post/136766/) :ru:
     - [Шаблоны проектирования в JavaScript](https://medium.com/@marina.kovalyova/java-script-design-patterns-569c627d25f9) :ru:
     
-### <a name="html"></a> HTML
+## <a name="html"></a> HTML
 
 - **Основы**
     - [Самоучитель HTML4](http://htmlbook.ru/samhtml) :ru:
