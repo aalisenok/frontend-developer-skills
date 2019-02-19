@@ -291,3 +291,11 @@
 - [Оптимизация графики для веба: самое важное](https://habr.com/ru/post/422531/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [SVG в вебе - практическое руководство](https://svgontheweb.com/ru/#spriting) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [SVG-спрайты](https://nicothin.pro/page/svg-sprites) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+
+## <a name="performance-tools"></a><img src="img/perfomance.svg" width="36px" align="center" alt="Performance tools"> Инструменты производительности
+
+- [Оптимизация производительности фронтенда](https://habr.com/ru/company/oleg-bunin/blog/345498/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Как ускорить загрузку сайта](https://habr.com/ru/company/netologyru/blog/337842/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [WebPageTest](https://www.webpagetest.org/) <img src="img/uk.svg" width="16px" align="center" alt="English">
+- [Test your mobile speed](https://testmysite.withgoogle.com/intl/en-gb) <img src="img/uk.svg" width="16px" align="center" alt="English">
