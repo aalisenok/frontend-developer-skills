@@ -95,7 +95,7 @@
     - *Плагин ускоряющий написание разметки и стилей*
         - [Emmet](https://emmet.io/download/)
             - [Настройка](http://ts-soft.ru/blog/emmet) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
-            - [Cheat Sheet](https://docs.emmet.io/cheat-shee<img src="img/uk.svg" width="16px" align="center" alt="English">
+            - [Cheat Sheet](https://docs.emmet.io/cheat-sheet) <img src="img/uk.svg" width="16px" align="center" alt="English">
 
 - **Графические редакторы**
 
@@ -191,7 +191,7 @@
 
     - [Самоучитель CSS](http://htmlbook.ru/samcss) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     - [CSS3](http://htmlbook.ru/css3) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
-    - [CSS - CSS3](https://html5book.ru/css-css3/) :ru:
+    - [CSS - CSS3](https://html5book.ru/css-css3/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     - [CSS Tutorial](https://www.w3schools.com/css/) <img src="img/uk.svg" width="16px" align="center" alt="English">
     - [CSS specifications](https://www.w3.org/Style/CSS/specs.en.html) <img src="img/uk.svg" width="16px" align="center" alt="English">
     - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
@@ -248,7 +248,7 @@
     
 - **Шпаргалки**
 
-    - [Mega CSS3](https://makeawebsitehub.com/css3-mega-cheat-sheet/) <img src="img/uk.svg" width="16px" align="center" alt="English">
+    - [CSS3 Cheat Sheet ](https://makeawebsitehub.com/css3-mega-cheat-sheet/) <img src="img/uk.svg" width="16px" align="center" alt="English">
         
 ## <a name="js"></a></a><img src="img/js.svg" width="36px" align="center" alt="JavaScript"> JavaScript
 
