@@ -1,12 +1,16 @@
 <h1 align="center">Что должен знать и уметь Фронтенд разработчик <br> Frontend Developer</h1>  
   
-**Фронт-энд разработчик (с англ. «front-end developer»)** — это [программист][1], занимающийся разработкой пользовательского интерфейса, то есть внешней публичной части сайта в браузере. Главная задача фронт-энд разработчика — сделать  
-    максимально удобным взаимодействие пользователей с [сайтом][2] или [веб-приложением][3].
+**Фронт-энд разработчик (с англ. «front-end developer»)** — это [программист][programmist], занимающийся разработкой [пользовательского интерфейса][ui], то есть внешней публичной части сайта в браузере. Главная задача фронт-энд разработчика — сделать максимально удобным взаимодействие пользователей с [сайтом][site] или [веб-приложением][web-application].
+
+[programmist]: https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82  
+[ui]: https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F
+[site]: https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
+[web-application]: https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B9%D1%82 
     
 ## Обозначения:
 
 :ru: - Russian  
-:us: - English
+:gb: - English
 
 ## Коротко
 - **[Английский язык](#eng)**
@@ -31,7 +35,7 @@
 
 ## Подробно
 
-## <a name="eng"></a> Английский язык
+## <a name="eng"></a><img src="img/eng.svg" width="36px" align="center" alt="English"> Английский язык
 - [Полиглот 16 с Петровым](https://www.youtube.com/channel/UCik7MxUtSXXfT-f_78cQRfQ/playlists) :ru:
 - [Duolingo](https://www.duolingo.com/) :ru:
 - [Lingualeo](https://lingualeo.com/ru/) :ru:
@@ -45,13 +49,13 @@
 - [HelloTalk](https://www.hellotalk.com/) :ru: 
 - [EnglishSpeak](http://www.englishspeak.com/) :ru: 
 - [Ororo TV](https://ororo.tv/ru) :ru:
-- [Anki](https://apps.ankiweb.net/) :us:
-- [BBC – Learning English](http://www.bbc.co.uk/learningenglish/english/) :us:
-- [Grammarly](https://www.grammarly.com/) :us:  
-- [Rosetta Stone](https://www.rosettastone.com/) :us:  
-- [engVid](https://www.engvid.com/) :us:
+- [Anki](https://apps.ankiweb.net/) :gb:
+- [BBC – Learning English](http://www.bbc.co.uk/learningenglish/english/) :gb:
+- [Grammarly](https://www.grammarly.com/) :gb:  
+- [Rosetta Stone](https://www.rosettastone.com/) :gb:  
+- [engVid](https://www.engvid.com/) :gb:
 
-## <a name="general-skills"></a> Общие навыки разработчика
+## <a name="general-skills"></a><img src="img/skills.svg" width="36px" align="center" alt="General Skills"> Общие навыки разработчика
 - **Браузеры** 
     - На движке Blink  
         - [Google Chrome](https://www.google.com/intl/ru_ALL/chrome/)
@@ -82,14 +86,14 @@
         - [HotKeys](https://nicothin.pro/Atom/Atom-hotkeys.html) :ru:
     - [Brackets](http://brackets.io/)
         - [Настройка](http://master-css.com/page/brackets-code-editor) :ru:
-        - [Keyboard Shortcuts](http://lisacatalano.github.io/brackets_course/pc.html) :us:
+        - [Keyboard Shortcuts](http://lisacatalano.github.io/brackets_course/pc.html) :gb:
     - [Notapad++](https://notepad-plus-plus.org/download/v7.6.3.html)
         - [Настройка](http://blog.harrix.org/article/99) :ru:
-        - [Keyboard Shortcuts](http://docs.notepad-plus-plus.org/index.php/Keyboard_And_Mouse_Shortcuts) :us:
+        - [Keyboard Shortcuts](http://docs.notepad-plus-plus.org/index.php/Keyboard_And_Mouse_Shortcuts) :gb:
     - *Плагин ускоряющий написание разметки и стилей*
         - [Emmet](https://emmet.io/download/)
             - [Настройка](http://ts-soft.ru/blog/emmet) :ru:
-            - [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) :us:
+            - [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) :gb:
 
 - **Графические редакторы**
 
@@ -114,7 +118,7 @@
 - **Инструменты разработчика в браузере**    
 
     - [Инструменты разработчика Chrome DevTools](https://habr.com/ru/company/simbirsoft/blog/337116/) :ru:
-    - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2018Q2) :us:
+    - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2018Q2) :gb:
     - [Инструменты разработчика Firefox](https://developer.mozilla.org/ru/docs/Tools/Web_Console) :ru:
 
 - **[Протоколы передачи данных](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)**   
@@ -146,14 +150,14 @@
     - [Паттерны ООП в метафорах](https://habr.com/ru/post/136766/) :ru:
     - [Шаблоны проектирования в JavaScript](https://medium.com/@marina.kovalyova/java-script-design-patterns-569c627d25f9) :ru:
     
-## <a name="html"></a> HTML
+## <a name="html"></a></a><img src="img/html.svg" width="36px" align="center" alt="HTML"> HTML
 
 - **Основы**
     - [Самоучитель HTML4](http://htmlbook.ru/samhtml) :ru:
     - [HTML5](http://htmlbook.ru/html5) :ru:
     - [HTML - HTML5](https://html5book.ru/html-html5/) :ru:
-    - [HTML5 Tutorial](https://www.w3schools.com/html/) :us:
-    - [HTML specification](https://w3c.github.io/html/) :us:
+    - [HTML5 Tutorial](https://www.w3schools.com/html/) :gb:
+    - [HTML specification](https://w3c.github.io/html/) :gb:
 - **[Семантика](https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)) и [доступность](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D1%8C)** 
     - [Секреты использования семантической верстки в HTML5](https://medium.com/@stasonmars/%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B8%CC%86-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B8-%D0%B2-html5-c7cd5e6f1ebb) :ru:
     - [Семантическая вёрстка. Часть первая](https://pepelsbey.net/2008/04/semantic-coding-1/) :ru: и [Семантическая вёрстка. Часть вторая](https://pepelsbey.net/2008/04/semantic-coding-2/) :ru:
@@ -168,9 +172,6 @@
     - [Поисковая оптимизация сайтов, использующих SPA-приложения](https://vc.ru/marketing/36449-poiskovaya-optimizaciya-saytov-ispolzuyushchih-spa-prilozheniya) :ru: 
     - [ТРЕБОВАНИЯ ПОИСКОВОЙ ОПТИМИЗАЦИИ: ВЁРСТКА И РАЗРАБОТКА САЙТА](https://pixelplus.ru/samostoyatelno/stati/indeksatsiya/seo-i-razrabotka-sayta.html) :ru: 
 - **Шпаргалки** 
-    - [HTML 5 Cheat Sheet](https://makeawebsitehub.com/the-html-5-mega-cheat-sheet/) :us:
+    - [HTML 5 Cheat Sheet](https://makeawebsitehub.com/the-html-5-mega-cheat-sheet/) :gb:
 
 
-[1]: https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82  
-[2]: https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B9%D1%82  
-[3]: https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
