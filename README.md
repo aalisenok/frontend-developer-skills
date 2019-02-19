@@ -154,7 +154,7 @@
     - [Паттерны ООП в метафорах](https://habr.com/ru/post/136766/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     - [Шаблоны проектирования в JavaScript](https://medium.com/@marina.kovalyova/java-script-design-patterns-569c627d25f9) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     
-## <a name="html"></a></a><img src="img/html.svg" width="36px" align="center" alt="HTML"> HTML
+## <a name="html"></a><img src="img/html.svg" width="36px" align="center" alt="HTML"> HTML
 
 - **Основы**
 
@@ -185,7 +185,7 @@
 
     - [HTML 5 Cheat Sheet](https://makeawebsitehub.com/the-html-5-mega-cheat-sheet/) <img src="img/uk.svg" width="16px" align="center" alt="English">
 
-## <a name="css"></a></a><img src="img/css.svg" width="36px" align="center" alt="CSS"> CSS
+## <a name="css"></a><img src="img/css.svg" width="36px" align="center" alt="CSS"> CSS
 
 - **Основы**
 
@@ -250,7 +250,7 @@
 
     - [CSS3 Cheat Sheet ](https://makeawebsitehub.com/css3-mega-cheat-sheet/) <img src="img/uk.svg" width="16px" align="center" alt="English">
         
-## <a name="js"></a></a><img src="img/js.svg" width="36px" align="center" alt="JavaScript"> JavaScript
+## <a name="js"></a><img src="img/js.svg" width="36px" align="center" alt="JavaScript"> JavaScript
 
 - **Основы**
 
@@ -283,3 +283,11 @@
 - **Шпаргалки**
 
     - [JavaScript Cheat Sheet](https://websitesetup.org/javascript-cheat-sheet/) <img src="img/uk.svg" width="16px" align="center" alt="English">
+
+## <a name="graph"></a><img src="img/picture.svg" width="36px" align="center" alt="Graphics"> Графика
+
+- [Форматы изображений](https://htmlacademy.ru/blog/113-image-formats) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Оптимизация изображений](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Оптимизация графики для веба: самое важное](https://habr.com/ru/post/422531/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [SVG в вебе - практическое руководство](https://svgontheweb.com/ru/#spriting) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [SVG-спрайты](https://nicothin.pro/page/svg-sprites) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
