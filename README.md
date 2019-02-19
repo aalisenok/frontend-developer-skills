@@ -158,6 +158,7 @@
     - [HTML - HTML5](https://html5book.ru/html-html5/) :ru:
     - [HTML5 Tutorial](https://www.w3schools.com/html/) :gb:
     - [HTML specification](https://w3c.github.io/html/) :gb:
+    
 - **[Семантика](https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)) и [доступность](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D1%8C)** 
     - [Секреты использования семантической верстки в HTML5](https://medium.com/@stasonmars/%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B8%CC%86-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B8-%D0%B2-html5-c7cd5e6f1ebb) :ru:
     - [Семантическая вёрстка. Часть первая](https://pepelsbey.net/2008/04/semantic-coding-1/) :ru: и [Семантическая вёрстка. Часть вторая](https://pepelsbey.net/2008/04/semantic-coding-2/) :ru:
@@ -167,11 +168,66 @@
     - [Доступность с клавиатуры, используя HTML и CSS](https://webdesign.tutsplus.com/ru/articles/keyboard-accessibility-tips-using-html-and-css--cms-31966) :ru:
     - [Доступность](http://yoksel.github.io/easy-markup/accessibility/) :ru:
     - [Доступность веб‑страницы](https://nicothin.pro/page/dostupnost-veb-stranicy) :ru:
-     
+    - [Полезные правила доступности, которые останутся в памяти](https://medium.com/web-standards/pragmatic-a11y-rules-b16dd2f77685) :ru:
+
 - **[SEO - оптимизация](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)** 
     - [Поисковая оптимизация сайтов, использующих SPA-приложения](https://vc.ru/marketing/36449-poiskovaya-optimizaciya-saytov-ispolzuyushchih-spa-prilozheniya) :ru: 
     - [ТРЕБОВАНИЯ ПОИСКОВОЙ ОПТИМИЗАЦИИ: ВЁРСТКА И РАЗРАБОТКА САЙТА](https://pixelplus.ru/samostoyatelno/stati/indeksatsiya/seo-i-razrabotka-sayta.html) :ru: 
+
 - **Шпаргалки** 
     - [HTML 5 Cheat Sheet](https://makeawebsitehub.com/the-html-5-mega-cheat-sheet/) :gb:
 
+## <a name="css"></a></a><img src="img/css.svg" width="36px" align="center" alt="CSS"> CSS
 
+- **Основы**
+    - [Самоучитель CSS](http://htmlbook.ru/samcss) :ru:
+    - [CSS3](http://htmlbook.ru/css3) :ru:
+    - [CSS - CSS3](https://html5book.ru/css-css3/) :ru:
+    - [CSS Tutorial](https://www.w3schools.com/css/) :gb:
+    - [CSS specifications](https://www.w3.org/Style/CSS/specs.en.html) :gb:
+    - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words) :ru:
+    - [ПРАВИЛА ХОРОШЕГО ТОНА](https://wsd.events/2014-12-06/good-manners/#/) :ru:
+    - [Хорошие и плохие CSS-практики для начинающих](https://medium.com/@ABatickaya/%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5-%D0%B8-%D0%BF%D0%BB%D0%BE%D1%85%D0%B8%D0%B5-css-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85-619289ce8bae) :ru:
+    - [Все способы вертикального выравнивания в CSS](https://habr.com/ru/company/netcracker/blog/277433/) :ru:
+    - [30 CSS-селекторов, которые вы должны знать](http://rightblog.ru/2606) :ru:
+    - [Исчерпывающее руководство по псевдоэлементам и псевдоклассам в CSS](https://medium.com/@ABatickaya/%D0%B8%D1%81%D1%87%D0%B5%D1%80%D0%BF%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B5%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-%D0%BF%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC-%D0%B8-%D0%BF%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0%D0%BC-%D0%B2-css-3282b5ea029) :ru:
+    - [CSS Diner - Where we feast on CSS Selectors](https://flukeout.github.io/) :gb:
+    - [Пишем CSS, не забывая о доступности](https://medium.com/@ABatickaya/%D0%B4%D1%83%D0%BC%D0%B0%D1%8F-%D0%BE-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%BF%D0%B8%D1%88%D0%B5%D0%BC-css-9032d7b64fb2) :ru:
+    - [Никто не знает CSS: специфичность — не каскад](https://css-live.ru/css/nikto-ne-znaet-css-specifichnost-ne-kaskad.html) :ru:
+
+- **[Типографика](https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0)**
+    - [Веб-типографика](https://html5book.ru/web-topography/) :ru:
+    - [Типографика в вебе](https://habr.com/ru/post/324944/) :ru:
+
+- **[Шрифты](https://ru.wikipedia.org/wiki/%D0%A8%D1%80%D0%B8%D1%84%D1%82)**
+    - [Подключение шрифта к странице: как нужно делать сейчас](https://nicothin.pro/page/web-fonts) :ru:
+    - [Управляем поведением font-face в CSS](https://ymatuhin.ru/front-end/font-display/) :ru:
+    - [font-display for the Masses](https://css-tricks.com/font-display-masses/) :gb:
+
+- **Единицы измерения**
+    - [Единицы измерения: "px", "em", "rem" и другие](https://learn.javascript.ru/css-units) :ru:
+    - [REM vs EM – Великий спор](https://habr.com/ru/post/280125/) :ru:
+    - [сalc() в CSS3. Великолепные возможности для responsive верстки.](https://html5.by/blog/css3-calc/) :ru:
+- **Flexbox & CSS Grid**
+    -[Что такое Flexbox? Описание всех css свойств, основные принципы, преимущества и недостатки.](https://html5.by/blog/flexbox/) :ru:
+    -[Полное руководство по CSS Grid](https://tuhub.ru/posts/css-grid-complete-guide) :ru:
+    -[Грид + флексбокс: мощнейшее комбо в веб-раскладке](https://css-live.ru/articles-css/grid-fleksboks-moshhnejshee-kombo-v-veb-raskladke.html) :ru:
+
+- **[Адаптивный](https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D0%B1-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD) и [отзывчивый веб-дизайн](https://en.wikipedia.org/wiki/Responsive_web_design)**
+    - [9 основных принципов отзывчивого веб-дизайна](https://habr.com/ru/post/243247/) :ru:
+    - [Отзывчивый и адаптивный дизайн сайта](https://html5book.ru/otzyvchivyj-dizayn-saita/) :ru:
+    - [Адаптивная верстка: что это и как использовать](https://tproger.ru/translations/responsive-web-design-tips/) :ru:
+
+- **Медиа запросы**
+    -[Медиа-запросы в адаптивном дизайне 2018](https://habr.com/ru/post/349484/) :ru:
+    -[CSS - Медиа запросы (media queries)](https://itchief.ru/lessons/html-and-css/css-media-queries) :ru:
+
+- **Анимации и эффекты, преходы и трансформации**
+    -[Знакомство с анимацией в CSS3: гайд для начинающих](https://tproger.ru/translations/css3-animation-step-by-step/) :ru:
+    -[Полное руководство по правильному использованию анимации в UX](https://habr.com/ru/post/424383/) :ru:
+    -[Перемещения и трансформации в CSS3](https://habr.com/ru/post/135816/) :ru:
+    -[Трансформация в CSS](https://webref.ru/course/css-advanced/transform) :ru:
+    -[Переходы в CSS](https://webref.ru/course/css-advanced/transitions) :ru:
+    
+- **Шпаргалки**
+    -[Mega CSS3](https://makeawebsitehub.com/css3-mega-cheat-sheet/) :gb:
