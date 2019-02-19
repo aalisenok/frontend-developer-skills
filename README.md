@@ -292,7 +292,7 @@
 - [SVG в вебе - практическое руководство](https://svgontheweb.com/ru/#spriting) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [SVG-спрайты](https://nicothin.pro/page/svg-sprites) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 
-## <a name="performance-tools"></a><img src="img/perfomance.svg" width="36px" align="center" alt="Performance tools"> Инструменты производительности
+## <a name="performance-tools"></a><img src="img/performance.svg" width="36px" align="center" alt="Performance tools"> Инструменты производительности
 
 - [Оптимизация производительности фронтенда](https://habr.com/ru/company/oleg-bunin/blog/345498/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [Как ускорить загрузку сайта](https://habr.com/ru/company/netologyru/blog/337842/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
