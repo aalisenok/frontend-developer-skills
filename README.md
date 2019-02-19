@@ -9,8 +9,8 @@
     
 ## Обозначения:
 
-:ru: - Russian  
-:gb: - English
+<img src="img/ru.svg" width="20px" align="center" alt="Russian"> - Russian  
+<img src="img/uk.svg" width="20px" align="center" alt="English"> - English
 
 ## Коротко
 - **[Английский язык](#eng)**
@@ -36,24 +36,24 @@
 ## Подробно
 
 ## <a name="eng"></a><img src="img/eng.svg" width="36px" align="center" alt="English"> Английский язык
-- [Полиглот 16 с Петровым](https://www.youtube.com/channel/UCik7MxUtSXXfT-f_78cQRfQ/playlists) :ru:
-- [Duolingo](https://www.duolingo.com/) :ru:
-- [Lingualeo](https://lingualeo.com/ru/) :ru:
-- [Puzzle English](https://puzzle-english.com/) :ru:
-- [Memrise](https://www.memrise.com/) :ru:
-- [Busuu](https://www.busuu.com/ru) :ru:
-- [Lang-8](http://lang-8.com/) :ru:
-- [w2mem](https://w2mem.com/) :ru:
-- [Skyeng](https://skyeng.ru/) :ru:  
-- [EnglishDom](https://www.englishdom.com/) :ru:
-- [HelloTalk](https://www.hellotalk.com/) :ru: 
-- [EnglishSpeak](http://www.englishspeak.com/) :ru: 
-- [Ororo TV](https://ororo.tv/ru) :ru:
-- [Anki](https://apps.ankiweb.net/) :gb:
-- [BBC – Learning English](http://www.bbc.co.uk/learningenglish/english/) :gb:
-- [Grammarly](https://www.grammarly.com/) :gb:  
-- [Rosetta Stone](https://www.rosettastone.com/) :gb:  
-- [engVid](https://www.engvid.com/) :gb:
+- [Полиглот 16 с Петровым](https://www.youtube.com/channel/UCik7MxUtSXXfT-f_78cQRfQ/playlists) <img src="img/ru.svg" width="20px" align="center" alt="Russian">
+- [Duolingo](https://www.duolingo.com/) <img src="img/ru.svg" width="20px" align="center" alt="Russian">
+- [Lingualeo](https://lingualeo.com/ru/) <img src="img/ru.svg" width="20px" align="center" alt="Russian">
+- [Puzzle English](https://puzzle-english.com/) <img src="img/ru.svg" width="20px" align="center" alt="Russian">
+- [Memrise](https://www.memrise.com/) <img src="img/ru.svg" width="20px" align="center" alt="Russian">
+- [Busuu](https://www.busuu.com/ru) <img src="img/ru.svg" width="20px" align="center" alt="Russian">
+- [Lang-8](http://lang-8.com/) <img src="img/ru.svg" width="20px" align="center" alt="Russian">
+- [w2mem](https://w2mem.com/) <img src="img/ru.svg" width="20px" align="center" alt="Russian">
+- [Skyeng](https://skyeng.ru/) <img src="img/ru.svg" width="20px" align="center" alt="Russian">  
+- [EnglishDom](https://www.englishdom.com/) <img src="img/ru.svg" width="20px" align="center" alt="Russian">
+- [HelloTalk](https://www.hellotalk.com/) <img src="img/ru.svg" width="20px" align="center" alt="Russian"> 
+- [EnglishSpeak](http://www.englishspeak.com/) <img src="img/ru.svg" width="20px" align="center" alt="Russian"> 
+- [Ororo TV](https://ororo.tv/ru) <img src="img/ru.svg" width="20px" align="center" alt="Russian">
+- [Anki](https://apps.ankiweb.net/) <img src="img/uk.svg" width="20px" align="center" alt="English">
+- [BBC – Learning English](http://www.bbc.co.uk/learningenglish/english/) <img src="img/uk.svg" width="20px" align="center" alt="English">
+- [Grammarly](https://www.grammarly.com/) <img src="img/uk.svg" width="20px" align="center" alt="English">
+- [Rosetta Stone](https://www.rosettastone.com/) <img src="img/uk.svg" width="20px" align="center" alt="English">
+- [engVid](https://www.engvid.com/) <img src="img/uk.svg" width="20px" align="center" alt="English">
 
 ## <a name="general-skills"></a><img src="img/skills.svg" width="36px" align="center" alt="General Skills"> Общие навыки разработчика
 
