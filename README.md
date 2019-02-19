@@ -208,10 +208,11 @@
     - [Единицы измерения: "px", "em", "rem" и другие](https://learn.javascript.ru/css-units) :ru:
     - [REM vs EM – Великий спор](https://habr.com/ru/post/280125/) :ru:
     - [сalc() в CSS3. Великолепные возможности для responsive верстки.](https://html5.by/blog/css3-calc/) :ru:
+    
 - **Flexbox & CSS Grid**
-    -[Что такое Flexbox? Описание всех css свойств, основные принципы, преимущества и недостатки.](https://html5.by/blog/flexbox/) :ru:
-    -[Полное руководство по CSS Grid](https://tuhub.ru/posts/css-grid-complete-guide) :ru:
-    -[Грид + флексбокс: мощнейшее комбо в веб-раскладке](https://css-live.ru/articles-css/grid-fleksboks-moshhnejshee-kombo-v-veb-raskladke.html) :ru:
+    - [Что такое Flexbox? Описание всех css свойств, основные принципы, преимущества и недостатки.](https://html5.by/blog/flexbox/) :ru:
+    - [Полное руководство по CSS Grid](https://tuhub.ru/posts/css-grid-complete-guide) :ru:
+    - [Грид + флексбокс: мощнейшее комбо в веб-раскладке](https://css-live.ru/articles-css/grid-fleksboks-moshhnejshee-kombo-v-veb-raskladke.html) :ru:
 
 - **[Адаптивный](https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D0%B1-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD) и [отзывчивый веб-дизайн](https://en.wikipedia.org/wiki/Responsive_web_design)**
     - [9 основных принципов отзывчивого веб-дизайна](https://habr.com/ru/post/243247/) :ru:
@@ -219,15 +220,15 @@
     - [Адаптивная верстка: что это и как использовать](https://tproger.ru/translations/responsive-web-design-tips/) :ru:
 
 - **Медиа запросы**
-    -[Медиа-запросы в адаптивном дизайне 2018](https://habr.com/ru/post/349484/) :ru:
-    -[CSS - Медиа запросы (media queries)](https://itchief.ru/lessons/html-and-css/css-media-queries) :ru:
+    - [Медиа-запросы в адаптивном дизайне 2018](https://habr.com/ru/post/349484/) :ru:
+    - [CSS - Медиа запросы (media queries)](https://itchief.ru/lessons/html-and-css/css-media-queries) :ru:
 
 - **Анимации и эффекты, преходы и трансформации**
-    -[Знакомство с анимацией в CSS3: гайд для начинающих](https://tproger.ru/translations/css3-animation-step-by-step/) :ru:
-    -[Полное руководство по правильному использованию анимации в UX](https://habr.com/ru/post/424383/) :ru:
-    -[Перемещения и трансформации в CSS3](https://habr.com/ru/post/135816/) :ru:
-    -[Трансформация в CSS](https://webref.ru/course/css-advanced/transform) :ru:
-    -[Переходы в CSS](https://webref.ru/course/css-advanced/transitions) :ru:
+    - [Знакомство с анимацией в CSS3: гайд для начинающих](https://tproger.ru/translations/css3-animation-step-by-step/) :ru:
+    - [Полное руководство по правильному использованию анимации в UX](https://habr.com/ru/post/424383/) :ru:
+    - [Перемещения и трансформации в CSS3](https://habr.com/ru/post/135816/) :ru:
+    - [Трансформация в CSS](https://webref.ru/course/css-advanced/transform) :ru:
+    - [Переходы в CSS](https://webref.ru/course/css-advanced/transitions) :ru:
     
 - **Шпаргалки**
-    -[Mega CSS3](https://makeawebsitehub.com/css3-mega-cheat-sheet/) :gb:
+    - [Mega CSS3](https://makeawebsitehub.com/css3-mega-cheat-sheet/) :gb:
