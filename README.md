@@ -127,7 +127,7 @@
     
     - [Как использовать консоль в Windows](https://nicothin.pro/page/console-windows) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     
- - **[Системы управления версиями](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8)**
+- **[Системы управления версиями](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8)**
     
     - [Git](https://git-scm.com/)
         - [Git How To: курс обучения Git на русском](https://githowto.com/ru) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
@@ -291,6 +291,7 @@
 - [Оптимизация графики для веба: самое важное](https://habr.com/ru/post/422531/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [SVG в вебе - практическое руководство](https://svgontheweb.com/ru/#spriting) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [SVG-спрайты](https://nicothin.pro/page/svg-sprites) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Оформление содержимого <use> в SVG с помощью CSS](http://prgssr.ru/development/oformlenie-soderzhimogo-use-v-svg-s-pomoshyu-css.html) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 
 ## <a name="performance-tools"></a><img src="img/performance.svg" width="36px" align="center" alt="Performance tools"> Инструменты производительности
 
@@ -299,3 +300,18 @@
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [WebPageTest](https://www.webpagetest.org/) <img src="img/uk.svg" width="16px" align="center" alt="English">
 - [Test your mobile speed](https://testmysite.withgoogle.com/intl/en-gb) <img src="img/uk.svg" width="16px" align="center" alt="English">
+
+## <a name="package-managers"></a><img src="img/package.svg" width="36px" align="center" alt="Package managers"> Менеджеры пакетов
+
+- [npm](https://www.npmjs.com/)
+    - [Введение в пакетный менеджер NPM для начинающих](http://prgssr.ru/development/vvedenie-v-paketnyj-menedzher-npm-dlya-nachinayushih.html) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Yarn](https://yarnpkg.com/lang/en/)
+    - [Пакетный менеджер Yarn — инструкция по применению](http://rightblog.ru/3504) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Yarn или npm: все, что вам нужно знать о них](http://prgssr.ru/development/yarn-ili-npm-vse-chto-vam-nuzhno-znat.html) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Bower](https://bower.io/)
+    - [Зачем нужен менеджер пакетов, или почему именно Bower](https://xakep.ru/2014/05/30/bower-package-manager/#toc06.) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+
+
+
+
+
