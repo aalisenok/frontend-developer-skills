@@ -311,7 +311,13 @@
 - [Bower](https://bower.io/)
     - [Зачем нужен менеджер пакетов, или почему именно Bower](https://xakep.ru/2014/05/30/bower-package-manager/#toc06.) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 
+## <a name="css-preprocessors"></a><img src="img/css1.svg" width="36px" align="center" alt="CSS - preprocessors"> CSS – препроцессоры
 
-
-
-
+- [Sass](https://sass-scss.ru/)
+    - [Препроцессор Sass. Полное руководство и зачем он нужен](https://medium.com/@stasonmars/%D0%BF%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80-sass-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B8-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BE%D0%BD-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-20fb638e29e3) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Less](https://lesscss.ru/)
+    - [LESS: программируемый язык стилей](https://habr.com/ru/post/136525/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Stylus](http://stylus-lang.com/)
+    - [Препроцессор Stylus](https://gist.github.com/neretin-trike/214fe69cf632fbd9db04d702b7f303c1) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [PostCSS](https://postcss.org/)
+    - [PostCss, полное погружение: Все, что Вам нужно знать](https://webdesign.tutsplus.com/ru/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
