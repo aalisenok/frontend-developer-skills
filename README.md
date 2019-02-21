@@ -321,3 +321,34 @@
     - [Препроцессор Stylus](https://gist.github.com/neretin-trike/214fe69cf632fbd9db04d702b7f303c1) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [PostCSS](https://postcss.org/)
     - [PostCss, полное погружение: Все, что Вам нужно знать](https://webdesign.tutsplus.com/ru/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    
+## <a name="css-frameworks-libs"></a><img src="img/frameworks.svg" width="36px" align="center" alt="Frameworks"> CSS – фреймворки и библиотеки
+ 
+- **Фреймворки** 
+
+    - [Bootstrap](https://getbootstrap.com/)
+        - [Bootstrap. Документация на русском языке](http://bootstrap-4.ru/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Foundation](https://foundation.zurb.com/)
+        - [Foundation Framework Crash Course](https://www.youtube.com/watch?v=DEu5xYEZx18) <img src="img/uk.svg" width="16px" align="center" alt="English">
+    - [Semantic UI](https://semantic-ui.com/)
+        - [Semantic UI In 60 Minutes](https://www.youtube.com/watch?v=a9mUH1EWp40&t=596s) <img src="img/uk.svg" width="16px" align="center" alt="English">
+    - [Bulma](https://bulma.io/)
+        - [Learn Bulma in 5 minutes](https://medium.freecodecamp.org/learn-bulma-in-5-minutes-ec5188c53e83) <img src="img/uk.svg" width="16px" align="center" alt="English">
+        - [Bulma CSS Framework Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg&t=873s) <img src="img/uk.svg" width="16px" align="center" alt="English">
+    - [Materialize](https://materializecss.com/)
+        - [Materialize CSS Crash Course - Part 1](https://www.youtube.com/watch?v=nqT8c5OFjEQ) <img src="img/uk.svg" width="16px" align="center" alt="English">
+        - [Materialize CSS Crash Course - Part 2](https://www.youtube.com/watch?v=ZpduVPHZ5Aw) <img src="img/uk.svg" width="16px" align="center" alt="English">
+    - [Ulkit](https://getuikit.com/)
+        - [UIkit на русском](http://getuikit.ru/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Pure](https://purecss.io/)
+        - [Pure.css предлагает интригующую альтернативу Bootstrap](https://code.tutsplus.com/ru/tutorials/purecss-offers-an-intriguing-alternative-to-bootstrap--cms-25176) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+
+- **Библиотеки** 
+    
+    - [Magic Animations](https://www.minimamente.com/example/magic_animations/)
+    - [Animate.css](https://daneden.github.io/animate.css/)
+    - [Hover.css](http://ianlunn.github.io/Hover/)
+    - [CSShake](http://elrumordelaluz.github.io/csshake/#1)
+    - [Effeckt.css](https://h5bp.org/Effeckt.css/)
+    - [Loaders.css](https://connoratherton.com/loaders)
+    - [Hamburgers](https://jonsuh.com/hamburgers/)
