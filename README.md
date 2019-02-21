@@ -366,3 +366,18 @@
 - [Atomic CSS](https://acss.io/)
     - [Атомарный CSS](https://www.youtube.com/watch?v=WM6C_vteL48) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     - [Атомарный CSS — порядок и чистота](https://habr.com/ru/post/432586/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+
+## <a name="templates"></a><img src="img/html1.svg" width="36px" align="center" alt="Templates"> Шаблонизаторы / HTML - препроцессоры
+
+- [PUG](https://pugjs.org/api/getting-started.html)
+    - [Препроцессор Pug(Jade)](https://gist.github.com/neretin-trike/53aff5afb76153f050c958b82abd9228) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Handlebars](https://handlebarsjs.com/)
+    - [Handlebars. Руководство к действию](https://habr.com/ru/post/273581/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Haml](http://haml.info/)
+    - [Haml - язык разметки для упрощенной генерации HTML](https://haml.ru/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [mustache.js](http://mustache.github.io/)
+    - [Mustache.js – обзор, начало работы, разработка HTML шаблонов с mustache](http://sitear.ru/material/mustache-js-razrabotka-html-shablonov-s-mustache) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
+    - [Nunjucks: Шаблонизатор для JavaScript](http://devacademy.ru/posts/nunjucks-shablonizator-dlia-javascript/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Hogan.js](http://twitter.github.io/hogan.js/)
+    - [ШАБЛОНИЗАТОР HOGAN.JS](http://websketches.ru/plugins/hoganjs) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
