@@ -405,3 +405,16 @@
     - [Повышение качества javascript кода. JSLint](https://habr.com/ru/post/74419/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [JSHint](https://jshint.com/)
     - [С кодом будь строг. Настройка jshint](https://blog.dmitrypodgorniy.com/all/s-kodom-bud-strog-nastroyka-jshint/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    
+## <a name="module-builders"></a><img src="img/builders.svg" width="36px" align="center" alt="Builders"> Сборщики модулей
+
+- [Webpack](https://webpack.js.org/)
+    - [Скринкаст по Webpack](https://learn.javascript.ru/screencast/webpack) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Webpack 4 - простая сборка проекта](https://www.youtube.com/watch?v=MRlBKfGktwI&t=3773s) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Webpack 4: практические рекомендации по настройке](https://tproger.ru/translations/configure-webpack4/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Parcel](https://parceljs.org/)
+    - [Parcel — очень быстрый бандлер, не требующий настройки](https://habr.com/ru/post/344486/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Rollup](https://rollupjs.org/guide/en)
+    - [Как создавать компактный и эффективный javascript используя RollupJS](https://habr.com/ru/post/331412/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Browserify](http://browserify.org/)
+    - [Начинаем работу с Browserify](http://prgssr.ru/development/nachinaem-rabotu-s-browserify.html) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
