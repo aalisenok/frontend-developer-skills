@@ -421,7 +421,7 @@
 - [Browserify](http://browserify.org/)
     - [Начинаем работу с Browserify](http://prgssr.ru/development/nachinaem-rabotu-s-browserify.html) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     
-## <a name="js–preprocessors"></a><img src="img/j1.svg" width="36px" align="center" alt="Preprocessors"> JavaScript – препроцессоры
+## <a name="js–preprocessors"></a><img src="img/js1.svg" width="36px" align="center" alt="Preprocessors"> JavaScript – препроцессоры
 
 - [Babel](https://babeljs.io/)
     - [Курс по ES6 #1. Установка и настройка Babel](https://abraxabra.ru/blog/javascript/install-and-configure-babe/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
@@ -430,3 +430,53 @@
     - [Перевод официальной документации Typescript на русский.](http://typescript-lang.ru/docs/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [CoffeeScript](https://coffeescript.org/)
     - [CoffeeScript на русском](https://coffeescript2ru.github.io/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    
+    
+## <a name="js–frameworks-libs"></a><img src="img/frameworks.svg" width="36px" align="center" alt="Frameworks"> JavaScript – фреймворки и библиотеки
+- **Фреймворки** 
+    - [Angular](https://angular.io/)
+        - [Скринкаст по Angular](https://www.youtube.com/watch?v=Gl4IT4JpP4o&list=PLDyvV36pndZF-vwsVB48ivZyNJ4ETBKNY) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Руководство по Angular 7](https://metanit.com/web/angular2/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Vue](https://vuejs.org/)
+        - [Прогрессивный JavaScript-фреймворк](https://ru.vuejs.org/index.html) <img src="img/ru.svg" width="16px" align="center" alt="Russian">        
+        - [Руководство по Vue.js](https://metanit.com/web/vuejs/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Ember](https://www.emberjs.com/)
+        - [Руководство для начинающих по Ember CLI](http://vitaleek.blogspot.com/2017/03/11-aug-2015-ember-cli-httpwww.html) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Ember.js — идеальный фреймворк для веб приложений](https://medium.com/devschacht/graham-cox-ember-the-perfect-framework-for-web-applications-970e817ded98) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Meteor](https://www.meteor.com/)
+        - [О meteorjs](https://blog.dmitrypodgorniy.com/all/o-meteorjs/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Knockout](https://knockoutjs.com/)
+        - [Руководство по KnockoutJS](https://metanit.com/web/knockout/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Aurelia](https://aurelia.io/)
+        - [Aurelia — новый современный JS-фреймворк](https://habr.com/ru/post/248955/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        
+- **Библиотеки** 
+    - [React](https://reactjs.org/)
+        - [Основы React.JS](https://www.youtube.com/watch?v=ol4OVMJZC1w&list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Изучение React. Полное руководство по React](https://learn-reactjs.ru/home) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [REACT.JS НА РУССКОМ ЯЗЫКЕ](https://abraxabra.ru/react.js/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [jQuery](https://jquery.com/)
+        - [Русская документация по API jQuery](https://jquery-docs.ru/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Введение в jQuery](https://html5book.ru/vvedenie-v-jquery/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Backbone](https://backbonejs.org/)
+        - [Backbone.js по-русски](http://backbonejs.ru/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [D3](https://d3js.org/)
+        - [Руководство 'Изучаем D3.js'](https://metanit.com/web/d3js/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [D3. Краткое руководство](http://serganbus.github.io/d3tutorials/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Chart](https://www.chartjs.org/)
+        - [Работа с Chart.js: Первое знакомство](https://code.tutsplus.com/ru/tutorials/getting-started-with-chartjs-introduction--cms-28278) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Three](https://threejs.org/)
+        - [Three.js документация на русском](http://threejs-docs.ru/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Polymer](https://www.polymer-project.org/)
+        - [Просто и понятно о Polymer](https://ru.smedialink.com/razrabotka/prosto-i-ponyatno-o-polymer/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Lodash](https://lodash.com/)
+        - [Lodash документация на русском ](https://vaeum.com/tag/lodash/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Bounce](http://bouncejs.com/)
+        - [Даем анимации жизнь](https://habr.com/ru/post/229071/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Velocity](http://velocityjs.org/)
+        - [Velocity.js – новый аннимационный плагин javascript](https://proverstka.com.ua/blog/velocity-js-novyj-annimacionnyj-plagin-javascript/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Anime](https://animejs.com/)
+        - [Создание анимации на базе JavaScript с помощью библиотеки Anime.js. Часть 1](https://tproger.ru/translations/javascript-based-animation-part-1/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Создание анимации на базе JavaScript с помощью библиотеки Anime.js. Часть 2](https://tproger.ru/translations/javascript-based-animation-part-2/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Создание анимации на базе JavaScript с помощью библиотеки Anime.js. Часть 3](https://tproger.ru/translations/javascript-based-animation-part-3/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Создание анимации на базе JavaScript с помощью библиотеки Anime.js. Часть 4](https://tproger.ru/translations/javascript-based-animation-part-4/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
