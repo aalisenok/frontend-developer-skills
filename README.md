@@ -389,8 +389,19 @@
     - [Приятная сборка frontend проекта](https://habr.com/ru/post/250569/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     - [Gulp 4 - простая сборка проекта для вёрстки и javascript](https://www.youtube.com/watch?v=9qbdCruqpys&t=4846s) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     - [Стартовый шаблон для верстки. Gulp4 + Pug + Sass + BrowserSync](https://www.youtube.com/watch?v=M_MpUINnWic&t=1127s) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
-    - [Мой стартовый репозиторий](https://nicothin.pro/page/my-start-kit)
+    - [Мой стартовый репозиторий](https://nicothin.pro/page/my-start-kit) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [Grunt](https://gruntjs.com/)
     - [Пересмотренное руководство по Grunt для начинающих](https://habr.com/ru/post/244721/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [Broccoli](https://github.com/broccolijs/broccoli)
 - [Brunch](https://brunch.io/)
+
+## <a name="linters-formatters"></a><img src="img/linters.svg" width="36px" align="center" alt="Linters"> Линтеры и форматтеры
+
+- [Prettier](https://prettier.io/)
+    - [Prettier. Форматирование кода](https://medium.com/@akochemasov/prettier-%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%B4%D0%B0-b3b1cdf561e3) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [ESLint](https://eslint.org/)
+    - [Сложно о простом: ESLint в команде](https://habr.com/ru/post/322550/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [JSLint](https://www.jslint.com/)
+    - [Повышение качества javascript кода. JSLint](https://habr.com/ru/post/74419/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [JSHint](https://jshint.com/)
+    - [С кодом будь строг. Настройка jshint](https://blog.dmitrypodgorniy.com/all/s-kodom-bud-strog-nastroyka-jshint/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
