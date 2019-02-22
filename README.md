@@ -381,3 +381,16 @@
     - [Nunjucks: Шаблонизатор для JavaScript](http://devacademy.ru/posts/nunjucks-shablonizator-dlia-javascript/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [Hogan.js](http://twitter.github.io/hogan.js/)
     - [ШАБЛОНИЗАТОР HOGAN.JS](http://websketches.ru/plugins/hoganjs) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    
+## <a name="task-managers"></a><img src="img/managers.svg" width="36px" align="center" alt="Managers"> Менеджеры задач
+
+- [Gulp](https://gulpjs.com/)
+    - [Скринкаст по Gulp](https://learn.javascript.ru/screencast/gulp) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Приятная сборка frontend проекта](https://habr.com/ru/post/250569/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Gulp 4 - простая сборка проекта для вёрстки и javascript](https://www.youtube.com/watch?v=9qbdCruqpys&t=4846s) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Стартовый шаблон для верстки. Gulp4 + Pug + Sass + BrowserSync](https://www.youtube.com/watch?v=M_MpUINnWic&t=1127s) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Мой стартовый репозиторий](https://nicothin.pro/page/my-start-kit)
+- [Grunt](https://gruntjs.com/)
+    - [Пересмотренное руководство по Grunt для начинающих](https://habr.com/ru/post/244721/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [Broccoli](https://github.com/broccolijs/broccoli)
+- [Brunch](https://brunch.io/)
