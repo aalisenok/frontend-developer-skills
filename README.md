@@ -131,6 +131,7 @@
     
     - [Git](https://git-scm.com/)
         - [Git How To: курс обучения Git на русском](https://githowto.com/ru) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Скринкаст по Git](https://www.youtube.com/watch?v=QkY8lXZuiqQ&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     - [SVN (Subversion)](https://subversion.apache.org/)
         - [Отличная документация Subversion на русском](http://blog.perlover.com/2010/03/14/russian-doc-subversion-svn/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     - [Mercurial](https://www.mercurial-scm.org/)
@@ -279,6 +280,7 @@
     - [What’s coming to Javascript (ES7 + ES8)](https://medium.com/@Murcul/whats-coming-to-javascript-es7-es8-8ce73c9a8ec9) <img src="img/uk.svg" width="16px" align="center" alt="English">
     - [Глубокое погружение в ES-модули в картинках](https://medium.com/web-standards/es-modules-cartoon-dive-71f42c1e851a) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     - [JavaScript модули. Руководство для начинающих.](https://tuhub.ru/posts/javascript-moduli-rukovodstvo-dlya-nachinayushhih) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [ECMAScript compatibility tables](http://kangax.github.io/compat-table/es6/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 
 - **Шпаргалки**
 
@@ -418,3 +420,13 @@
     - [Как создавать компактный и эффективный javascript используя RollupJS](https://habr.com/ru/post/331412/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
 - [Browserify](http://browserify.org/)
     - [Начинаем работу с Browserify](http://prgssr.ru/development/nachinaem-rabotu-s-browserify.html) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    
+## <a name="js–preprocessors"></a><img src="img/j1.svg" width="36px" align="center" alt="Preprocessors"> JavaScript – препроцессоры
+
+- [Babel](https://babeljs.io/)
+    - [Курс по ES6 #1. Установка и настройка Babel](https://abraxabra.ru/blog/javascript/install-and-configure-babe/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [TypeScript](https://www.typescriptlang.org/)
+    - [Основы TypeScript, необходимые для разработки Angular-приложений](https://habr.com/ru/company/ruvds/blog/344502/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Перевод официальной документации Typescript на русский.](http://typescript-lang.ru/docs/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+- [CoffeeScript](https://coffeescript.org/)
+    - [CoffeeScript на русском](https://coffeescript2ru.github.io/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
