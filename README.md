@@ -30,6 +30,7 @@
 - **[Сборщики модулей](#module-builders)**
 - **[JavaScript – препроцессоры](#js–preprocessors)**
 - **[JavaScript – фреймворки и библиотеки](#js–frameworks-libs)**
+- **[Тестирование – фреймворки, библиотеки и инструменты](#testing)**
 - **[Методологии разработки](#development-methodologies)**
 - **[Полезные ссылки](#useful-links)**
 
@@ -467,6 +468,8 @@
         - [Работа с Chart.js: Первое знакомство](https://code.tutsplus.com/ru/tutorials/getting-started-with-chartjs-introduction--cms-28278) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     - [Three](https://threejs.org/)
         - [Three.js документация на русском](http://threejs-docs.ru/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    -[Riot](https://riot.js.org/)
+        -[Riot.js — React-подобная UI микробиблиотека](https://riot.js.org/v2/ru/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     - [Polymer](https://www.polymer-project.org/)
         - [Просто и понятно о Polymer](https://ru.smedialink.com/razrabotka/prosto-i-ponyatno-o-polymer/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
     - [Lodash](https://lodash.com/)
@@ -480,3 +483,47 @@
         - [Создание анимации на базе JavaScript с помощью библиотеки Anime.js. Часть 2](https://tproger.ru/translations/javascript-based-animation-part-2/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
         - [Создание анимации на базе JavaScript с помощью библиотеки Anime.js. Часть 3](https://tproger.ru/translations/javascript-based-animation-part-3/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
         - [Создание анимации на базе JavaScript с помощью библиотеки Anime.js. Часть 4](https://tproger.ru/translations/javascript-based-animation-part-4/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+
+## <a name="testing"></a><img src="img/test.svg" width="36px" align="center" alt="Testing"> Тестирование – фреймворки, библиотеки и инструменты
+
+- **Фреймворки** 
+
+    - [Jasmine](https://jasmine.github.io/)
+        - [Jasmine.js](http://www.web-adviser.ru/?page_id=325) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Jasmine и юнит тесты](http://stepansuvorov.com/blog/2012/10/jasmine-%D0%B8-%D1%8E%D0%BD%D0%B8%D1%82-%D1%82%D0%B5%D1%81%D1%82%D1%8B/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Mocha](https://mochajs.org/)
+        - [JavaScript тестирование с Mocha](http://webupblog.ru/javascript-testirovanie-s-mocha/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Используем Mocha для unit-тестов](http://stepansuvorov.com/blog/2013/11/mocha/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Jest](https://jestjs.io/)
+        - [Начало работы - Jest](https://doc.ebichu.cc/jest/docs/ru/getting-started.html) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Jenkins](https://jenkins.io/)
+        - [Руководство по Jenkins (полная версия)](https://proselyte.net/tutorials/jenkins/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [QUnit](https://qunitjs.com/)
+        - [QUnit. Тестирование javascript кода](https://habr.com/ru/post/83170/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [QUnit - Настройка среды](http://unetway.com/tutorial/qunit-environment/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Sinon](https://sinonjs.org/)
+        - [Sinon.js — mock-библиотека для JavaScript](https://habr.com/ru/company/ua-hosting/blog/274317/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [WebdriverIO](https://webdriver.io/)
+        - [WebDriverIO](https://code.i-harness.com/ru/docs/codeceptjs/helpers/webdriverio/index) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Автоматизированное тестирование интерфейса с помощью Webdriver.io](https://getinstance.info/articles/tools/ui-tests-with-webdriver-io/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [Protractor](https://www.protractortest.org/#/)
+        - [Тестируем AngularJS используя Protractor](http://stepansuvorov.com/blog/2014/02/angularjs-protractor/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Эффективное сквозное тестирование с Protractor - Часть 1](https://makeomatic.ru/blog/2015/01/05/Protractor_testing/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Полезное сквозное тестирование с Protractor - Часть 2](https://makeomatic.ru/blog/2015/01/17/Protractor_testing2/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+    - [PhantomJS](http://phantomjs.org/)
+        - [Тестирование JavaScript с помощью PhantomJS](https://code.tutsplus.com/ru/tutorials/testing-javascript-with-phantomjs--net-28243) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Создаем юнит-тесты с phantomjs](http://stepansuvorov.com/blog/2012/09/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B5%D0%BC-%D1%8E%D0%BD%D0%B8%D1%82-%D1%82%D0%B5%D1%81%D1%82%D1%8B-%D1%81-phantomjs/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+
+- **Библиотеки** 
+
+    - [Chai](https://www.chaijs.com/)
+        - [Тестирование RESTful API на NodeJS с Mocha и Chai](https://habr.com/ru/post/308352/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Автоматические тесты при помощи chai и mocha](https://learn.javascript.ru/testing) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+
+- **Интрументы**
+
+    - [Karma](https://karma-runner.github.io/3.0/index.html)
+        - [Мануал по запуску тестов при помощи Karma и Jasmine](https://jazzteam.org/ru/technical-articles/karma-and-jasmine-test-running-manual/) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
+        - [Karma Tutorial - Unit Testing JavaScript](http://www.bradoncode.com/blog/2015/02/27/karma-tutorial/) <img src="img/uk.svg" width="16px" align="center" alt="English">
+    - [Selenium](https://www.seleniumhq.org/)
+        - [Документация - Selenium](https://selenium2.ru/docs.html) <img src="img/ru.svg" width="16px" align="center" alt="Russian">
